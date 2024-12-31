@@ -37,9 +37,7 @@ Cegaware is a comprehensive solution for sales, traders and <br> structurers to 
 
 🎮 Use our cross-platform GUI desktop application to assess, import and export your analysis through a smooth and modern graphical interface.
 
-<h1 align="center">
 ![cw-gui](https://github.com/user-attachments/assets/035dd1d1-dbd2-4966-a31f-55516e67928f)
-</h1>
 
 ## <a name="cw-api">cw-api</a>
 
