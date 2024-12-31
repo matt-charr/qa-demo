@@ -38,7 +38,7 @@ Cegaware is a comprehensive solution for sales, traders and <br> structurers to 
 🎮 Connect your devices to our low level C dynamic-link library and have access to a comprehensive library of functions callable from your systems.
 
 <h1 align="left">
-<img src="images/cw-api.png" width="300" height="500"/>
+<img src="images/cw-api.PNG" width="300" height="500"/>
 </h1>
 
 ## <a name="cw-py">cw-py</a>
@@ -58,7 +58,7 @@ Cegaware is a comprehensive solution for sales, traders and <br> structurers to 
 🎮 Launch your own instance of our web service on your most powerful hardwares and make it available for your teams for more performance.
 
 <h1 align="left">
-<img src="images/cw-net.png" width="200" height="22"/>
+<img src="images/cw-net.PNG" width="200" height="22"/>
 </h1>
 
 ## <a name="cw-exe">cw-exe</a>
@@ -66,7 +66,7 @@ Cegaware is a comprehensive solution for sales, traders and <br> structurers to 
 🎮 Execute your API requests locally with our embedded executable.
 
 <h1 align="left">
-<img src="images/cw-exe.png" width="400" height="22"/>
+<img src="images/cw-exe.PNG" width="400" height="22"/>
 </h1>
 
 # <a name="features">Features</a>
