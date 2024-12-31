@@ -37,6 +37,8 @@ Cegaware is a comprehensive solution for sales, traders and <br> structurers to 
 
 🎮 Use our cross-platform GUI desktop application to assess, import and export your analysis through a smooth and modern graphical interface.
 
+![cw-gui](https://github.com/user-attachments/assets/035dd1d1-dbd2-4966-a31f-55516e67928f)
+
 ## <a name="cw-api">cw-api</a>
 
 🎮 Connect your devices to our low level C dynamic-link library and have access to a comprehensive library of functions callable from your systems.
@@ -48,6 +50,8 @@ Cegaware is a comprehensive solution for sales, traders and <br> structurers to 
 ## <a name="cw-py">cw-py</a>
 
 🎮 Automate your workflows with our python package for a flexible alternative to the API with calculations left to the C binaries for more performance.
+
+![cw-py](https://github.com/user-attachments/assets/e6d5f353-4317-4526-9e3a-898189138779)
 
 ## <a name="cw-dsl">cw-dsl</a>
 
@@ -154,6 +158,10 @@ We can then proceed with the integration of Cegaware within your workflow and pr
 The branch is merged with our codebase if and only if all builds and tests passed on all tested configurations.
 
 **Delivery**: A new package is deployed every business day at 23:59 and its name follows the semantic versioning principles. To publish a new release, we launch a shell script that writes a changelog and pushes a tag that triggers a packaging for each configurations supported. A bug reported (resp. payoff requested) on the day *D* will have its corresponding fix (resp. template) available for all users on day *D+3*. For new features, an estimated time of arrival (ETA) is communicated depending on the complexity of the task required and in the meantime some meetings might be organized for you to follow up the progression of the project.
+
+![tests](https://github.com/user-attachments/assets/2660539c-3ee1-4b70-b185-5626959e9566)
+![build](https://github.com/user-attachments/assets/0709e106-9c64-4309-8cb6-3f1e1fe26e44)
+![cicd](https://github.com/user-attachments/assets/5668edae-666c-4d29-bacc-a4b457c5d099)
 
 # <a name="about">About</a>
 
