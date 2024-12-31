@@ -23,7 +23,9 @@ Cegaware is a comprehensive solution for sales, traders and <br> structurers to 
    1. [Pro](#pro)
    2. [FAQ](#faq)
 4. [Workstyle](#workstyle)
-   1. [Integration and Delivery](#Integration and Delivery)
+5. [About](#about)
+   1. [Matthieu Charrier](#matthieu)
+   2. [Why cegaware ?](#why)
 
 # <a name="products">Products</a>
 
@@ -103,13 +105,13 @@ In particular Cegaware can adapt your own models if any and integrate it into t
 
 ## <a name="pricer">Pricer</a>
 
-Only three pricers to rule them all: Combined with variance reduction methods, barrier smoothing techniques and multihreading, our pricers produce accurate and reliable price and sensitivities:
+**Only three pricers to rule them all**: Combined with variance reduction methods, barrier smoothing techniques and multihreading, our pricers produce accurate and reliable price and sensitivities:
 
-A generic Monte Carlo engine that handles any complex contracts from vanillas to the most exotics.
+A generic **Monte Carlo** engine that handles any complex contracts from vanillas to the most exotics.
 
-For contracts with weak path dependency and low dimension, a pricer based on Finite Difference Method can be prefered to improve the accuracy.
+For contracts with weak path dependency and low dimension, a pricer based on **Finite Difference Method** can be prefered to improve the accuracy.
 
-Eventually, a Closed Form Method is proposed if the contract suits it well.
+Eventually, a **Closed Form** Method is proposed if the contract suits it well.
 
 # <a name="services">Services</a>
 
@@ -149,4 +151,25 @@ We can then proceed with the integration of Cegaware within your workflow and pr
 **Integration**: Once the task is done, a pull request is submitted which triggers our custom GitHub actions to execute builds and tests on our Windows, Linux and MacOS self-hosted runners.
 The branch is merged with our codebase if and only if all builds and tests passed on all tested configurations.
 
-**Delivery**: A new package is deployed every business day at 23:59 and its name follows the semantic versioning principles. To publish a new release, we launch a shell script that writes a changelog and pushes a tag that triggers a packaging for each configurations supported. A bug reported (resp. payoff requested) on the day D will have its corresponding fix (resp. template) available for all users on day D+3. For new features, an estimated time of arrival (ETA) is communicated depending on the complexity of the task required and in the meantime some meetings might be organized for you to follow up the progression of the project.
+**Delivery**: A new package is deployed every business day at 23:59 and its name follows the semantic versioning principles. To publish a new release, we launch a shell script that writes a changelog and pushes a tag that triggers a packaging for each configurations supported. A bug reported (resp. payoff requested) on the day *D* will have its corresponding fix (resp. template) available for all users on day *D+3*. For new features, an estimated time of arrival (ETA) is communicated depending on the complexity of the task required and in the meantime some meetings might be organized for you to follow up the progression of the project.
+
+# <a name="about">About</a>
+
+## <a name="me">Matthieu Charrier</a>
+
+With over 5 years of experience in the Front Office R&D department of top tier investment banks in Paris, I explored various quantitative topics from financial modeling to pricing methodologies. I collaborated with large teams of developers for live implementation of technical projects. Along the years, I noticed good and bad practices and put, I think, the best I saw into Cegaware, that I started to develop after my graduation in 2021 and kept maintaining at night and weekends as a side project.
+
+I hold a Master's degree in Mathematics, Computational Finance and Actuarial Sciences from Universite de Lille and a Master's in Probability and Finance (DEA El Karoui), co-sponsored by Sorbonne Universite and Ecole Polytechnique, in collaboration with ESSEC and ENS Ulm.
+
+## <a name="why">Why Cegaware ?</a>
+
+Risk manage a portfolio of derivatives or structured products is a very technical and heavy task that requires a robust and easily maintainable pricing engine to produce accurate and reliable analytics at a reasonable computational cost.
+
+Along the years, costly and complex solutions have been proposed to practitioners. These ones rely on old and hardly maintainable technologies which cost too much for the user and for the provider in terms of time and workforce.
+
+At Cegaware, we:
+
+✅ Offer a unified framework to ease your derivatives management with full flexibility to integrate new payoffs and features in a fast and efficient way. <br>
+✅ Maintain a comprehensive ecosystem of products at a very low cost and easily integrable within your workflows. <br>
+✅ Use optimized and modern infrastructure such as a smooth and friendly graphical user interface. <br>
+✅ Adapt to your own needs with a personnalized and reactive support and open to new ideas and projects to enhance your experience. <br>
