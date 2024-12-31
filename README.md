@@ -58,7 +58,7 @@ Cegaware is a comprehensive solution for sales, traders and <br> structurers to 
 🎮 Launch your own instance of our web service on your most powerful hardwares and make it available for your teams for more performance.
 
 <h1 align="center">
-<img src="images/cw-net.PNG" width="150" height="22"/>
+<img src="images/cw-net.PNG" width="150" height="20"/>
 </h1>
 
 ## <a name="cw-exe">cw-exe</a>
@@ -66,7 +66,7 @@ Cegaware is a comprehensive solution for sales, traders and <br> structurers to 
 🎮 Execute your API requests locally with our embedded executable.
 
 <h1 align="center">
-<img src="images/cw-exe.PNG" width="300" height="22"/>
+<img src="images/cw-exe.PNG" width="300" height="20"/>
 </h1>
 
 # <a name="features">Features</a>
