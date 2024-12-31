@@ -6,6 +6,8 @@
 Cegaware is a comprehensive solution for sales, traders and <br> structurers to manage their financial contracts.
 </div> <br>
 
+![presentation](https://github.com/user-attachments/assets/54320912-3f41-4fbc-b953-d0ffe6b035d3)
+
 # Table of Contents
 
 1. [Products](#products)
